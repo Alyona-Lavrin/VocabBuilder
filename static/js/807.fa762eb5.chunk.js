@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvocabbuilder=self.webpackChunkvocabbuilder||[]).push([[807],{8807:(e,r,t)=>{t.r(r),t.d(r,{default:()=>i});var c=t(4420),s=t(7689),d=t(184);const i=e=>{let{children:r,restricted:t=!1}=e;const i=(0,c.v9)((e=>e.auth.isLoggedIn))&&t;return(0,d.jsx)("div",{children:i?(0,d.jsx)(s.Fg,{to:"/dictionary"}):r})}}}]);
+//# sourceMappingURL=807.fa762eb5.chunk.js.map
